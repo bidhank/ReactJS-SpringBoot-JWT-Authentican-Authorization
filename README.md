@@ -1,9 +1,9 @@
 # ReactJS-SpringBoot-JWT-Authentican-Authorization
 Contains all the necessary components for building full fledged Modern Web App
 
-Front End = React JS
-Back End = Spring Boot
-Security = JWT Authentication & Authorization
+Front End -> React JS
+Back End -> Spring Boot
+Security -> JWT Authentication & Authorization
 
 Front End and Back End communicates via REST using JWT
 
